@@ -10,9 +10,10 @@ I am a full stack dev looking to solve real world problems. I have a passion for
  
  - ⚡ Fun fact: “A good idea is an orphan without effective communication.”
        ― Andrew Hunt, The Pragmatic Programmer: From Journeyman to Master
- 
+       
+ ![image](https://user-images.githubusercontent.com/110339348/231047251-38a0d4ef-5c8c-49cf-a264-078d4889e9c6.png)
   
- 
+ ![Uploading image.png…]()
 
 
 ![image](https://user-images.githubusercontent.com/110339348/231046517-d092c5a1-aac1-49d6-a43a-3b263294087f.png)
