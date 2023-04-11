@@ -1,5 +1,6 @@
 ❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research |
 
+File:Computer-screen-code-glitch-animation-gif-background-free.gif
 
 ![image](https://user-images.githubusercontent.com/110339348/231136294-2549ecc2-a818-46ec-bdd8-5c7729fe341c.png)
 
