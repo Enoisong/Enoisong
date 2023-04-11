@@ -3,6 +3,8 @@
 
 ![Computer-screen-code-glitch-animation-gif-background-free](https://user-images.githubusercontent.com/110339348/231143057-e6dee8c7-0217-411e-9704-8c48b1c3bcac.gif)
 
+I am Enobong Isong
+
 I love collaborating on Coding 🖤
 
 I enjoy feedbacks, because it helps me become a better person and a better programmer.🧡
@@ -68,6 +70,6 @@ Let's Connect 🤝
  
 
  
-![image](https://user-images.githubusercontent.com/110339348/231148176-282d42d5-8b84-45b4-8ff3-0f16ba6e9e5c.png)
+ 
 
 -->
