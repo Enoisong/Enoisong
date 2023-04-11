@@ -37,7 +37,7 @@ Tools. 🛠
  
 Let's Connect 🤝
     
- . https://www.linkedin.com/in/enobong-isong/  https://twitter.com/Enobongmisong
+ . https://www.linkedin.com/in/enobong-isong/      enobongitiaba988@gmail.com          https://twitter.com/Enobongmisong
 
 
 
