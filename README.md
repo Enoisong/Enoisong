@@ -11,24 +11,7 @@ I am a full stack dev looking to solve real world problems. I have a passion for
  - ⚡ Fun fact: “A good idea is an orphan without effective communication.”
        ― Andrew Hunt, The Pragmatic Programmer: From Journeyman to Master
        
- Languages
-javascript ruby html5
-
-Cloud & Hosting:
-Google cloud firebase firebase heroku
-
-Frameworks
-Frontend
-bootstrap react redux jquery webpack
-
-Backend
-ruby on rails mysql
-
-Database
-postgres mysql sqlite
-
-Version Control & CI/CD
-git github
+ ![image](https://user-images.githubusercontent.com/110339348/231049843-245a3ed6-3b1a-46b1-ac36-c738ad480692.png)
 
  
 
