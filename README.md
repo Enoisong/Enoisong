@@ -3,7 +3,14 @@
 
 ![Computer-screen-code-glitch-animation-gif-background-free](https://user-images.githubusercontent.com/110339348/231143057-e6dee8c7-0217-411e-9704-8c48b1c3bcac.gif)
 
+                                                         
+                                                          
+                                                       
+
                                                           Hi 👋, I'm Enobong Isong
+
+ 
+
 
 I love collaborating on Coding 🖤
 
@@ -11,7 +18,7 @@ I enjoy feedbacks, because it helps me become a better person and a better progr
 
 I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills to learn and grow.
 
-Link to PortFolio https://enoisong.github.io/mobile-version-redo/😃
+Want to know more about me? https://enoisong.github.io/mobile-version-redo/😃
 
 
 
@@ -38,7 +45,7 @@ Tools. 🛠
   
   
   
-  
+  https://github.com/enobongisong#github-stats-
  
 Let's Connect 🤝
     
