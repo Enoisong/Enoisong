@@ -1,6 +1,8 @@
 ❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research |
 
 
+![image](https://user-images.githubusercontent.com/110339348/231136294-2549ecc2-a818-46ec-bdd8-5c7729fe341c.png)
+
 I love collaborating on Coding 🖤
 
 I enjoy feedbacks, because it helps me become a better person and a better programmer.🧡
