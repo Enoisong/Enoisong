@@ -15,11 +15,7 @@ I'm Enobong Isong 😉
 ✨ Interests: coding, research
 ⚡ Fact about me:  I have worked as a Sociologist in the past 5 years in a construction company where I spent every day working with a diverse population of people, doing teamwork,  multi-tasking, effective communication, and other work ethics needed to succeed in the developer's world. 
 
-🌐   JavaScript, Bootstrap, Webpack
-⚙️   GitHub 
-🔧   Visual Studio Code 
-
-![image](https://user-images.githubusercontent.com/110339348/231042435-b9b3dab0-9408-47ad-9196-7c1611819ef5.png)
+![image](https://user-images.githubusercontent.com/110339348/231042778-5c7a0e9b-b139-4bc2-b176-a4e7b2ffa7dd.png)
 
  
 - 📫 How to reach me: ...
