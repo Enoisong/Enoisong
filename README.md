@@ -1,4 +1,4 @@
-Computer-screen-code-glitch-animation-gif-background-free.gif
+[Computer-screen-code-glitch-animation-gif-background-free.gif] 
 
 ### Hi there 👋 I am Enobong Isong
 I am a Full-stack Developer 👨‍💻  Proficient in Bootstrap, Webpack, Ruby on Rails, React, Redux, Javascript || Pair programming enthusiast|| Lifetime learner.
