@@ -34,10 +34,13 @@ Tools. 🛠
   
   
   
+  
  
 Let's Connect 🤝
     
- . https://www.linkedin.com/in/enobong-isong/      enobongitiaba988@gmail.com          https://twitter.com/Enobongmisong
+   https://www.linkedin.com/in/enobong-isong/
+   enobongitiaba988@gmail.com          
+   https://twitter.com/Enobongmisong
 
 
 
@@ -51,13 +54,6 @@ Let's Connect 🤝
  
  
  
- 
-   
-- 📫 How to reach me: ...
-https://www.linkedin.com/in/enobong-isong/ 
-enobongitiaba988@gmail.com
-https://twitter.com/Enobongmisong
-
 
  Check the Repositories and don't forget to give a star. 👇
 
