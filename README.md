@@ -1,6 +1,3 @@
- 
-### Hi there 👋
-
 ❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research |
 
 
@@ -40,7 +37,7 @@ Tools. 🛠
  
 Let's Connect 🤝
     
-![image](https://user-images.githubusercontent.com/110339348/231055264-ff353642-e8dc-47ed-9c94-a2d3fdf68c8a.png) ![image](https://user-images.githubusercontent.com/110339348/231055303-1d042be8-35bb-4b05-a9f0-be370b387df7.png) ![image](https://user-images.githubusercontent.com/110339348/231055333-67f11269-2c36-4952-b65b-834a3c7cd227.png) ![image](https://user-images.githubusercontent.com/110339348/231055358-dd890f5e-ba15-49d5-a53e-878f47962f75.png) ![image](https://user-images.githubusercontent.com/110339348/231055379-0cb85147-3a03-4361-be51-8b049b592260.png)
+ . https://www.linkedin.com/in/enobong-isong/  https://twitter.com/Enobongmisong
 
 
 
