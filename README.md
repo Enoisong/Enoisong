@@ -1,6 +1,8 @@
-![image](https://user-images.githubusercontent.com/110339348/231039805-9bab9b1a-735c-4617-8489-8a2fdd6df2e0.png)
-
+ 
 ### Hi there 👋 I am Enobong Isong
+![image](https://user-images.githubusercontent.com/110339348/231042317-f946c2e5-905e-41ed-b187-8484427406f5.png)
+
+
 I am a Full-stack Developer 👨‍💻  Proficient in Bootstrap, Webpack, Javascript || Pair programming enthusiast|| Lifetime learner. [![trophy](https://github-profile-trophy.vercel.app/?username=Enoisong)](https://github.com/Enoisona/github-profile-trophy)
  
 - 🌱 I’m currently learning at Microverse
