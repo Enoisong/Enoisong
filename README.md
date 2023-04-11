@@ -7,7 +7,7 @@ I enjoy feedbacks, because it helps me become a better person and a better progr
 
 I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills to learn and grow.
 
-Link to PortFolio 😃
+Link to PortFolio https://enoisong.github.io/mobile-version-redo/😃
 
 
 
