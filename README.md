@@ -15,7 +15,7 @@ I'm Enobong Isong 😉
 ✨ Interests: coding, research
 ⚡ Fact about me:  I have worked as a Sociologist in the past 5 years in a construction company where I spent every day working with a diverse population of people, doing teamwork,  multi-tasking, effective communication, and other work ethics needed to succeed in the developer's world. 
 
-![image](https://user-images.githubusercontent.com/110339348/231042778-5c7a0e9b-b139-4bc2-b176-a4e7b2ffa7dd.png)
+![image](https://user-images.githubusercontent.com/110339348/231042935-5172d9c0-80e8-4ba9-9c38-660ad632c9e6.png)
 
  
 - 📫 How to reach me: ...
