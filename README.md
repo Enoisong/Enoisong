@@ -11,13 +11,11 @@ I am a full stack dev looking to solve real world problems. I have a passion for
  - ⚡ Fun fact: “A good idea is an orphan without effective communication.”
        ― Andrew Hunt, The Pragmatic Programmer: From Journeyman to Master
  
- ![image](https://Enoisong-images.githubusercontent.com/110339348/231045599-a3754f29-6d21-4381-8e5d-dcaa369894df.png)
-
- https://Enoisong.githubusercontent.com/4a3c43f83c5657c8ddb5bc4d5a759340da53d1dcc3cb4ec149e76254e6697320/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d416e6e7938352d636f64652673686f775f69636f6e733d74727565267468656d653d6d65726b6f
   
  
 
 
+![image](https://user-images.githubusercontent.com/110339348/231046517-d092c5a1-aac1-49d6-a43a-3b263294087f.png)
 
  
  👨‍💻  Proficient in Bootstrap, Webpack, Javascript || Pair programming enthusiast|| Lifetime learner.  
