@@ -38,8 +38,8 @@ Tools. 🛠
  
 Let's Connect 🤝
     
-   https://www.linkedin.com/in/enobong-isong/
-   enobongitiaba988@gmail.com          
+   https://www.linkedin.com/in/enobong-isong/                           
+    enobongitiaba988@gmail.com          
    https://twitter.com/Enobongmisong
 
 
@@ -54,6 +54,10 @@ Let's Connect 🤝
  
  
  
+
+
+
+
 
  Check the Repositories and don't forget to give a star. 👇
 
