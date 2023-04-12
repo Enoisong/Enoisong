@@ -44,8 +44,7 @@ Tools. 🛠
   
   
   
-  
-  https://github.com/enobongisong#github-stats-
+ 
  
 Let's Connect 🤝
     
