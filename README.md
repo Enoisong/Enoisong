@@ -1,4 +1,4 @@
-❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research |
+                         ❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research |
   
 
 Hi 👋, I'm Enobong Isong  ![pix11](https://user-images.githubusercontent.com/110339348/231507103-78121d31-ef39-4ba0-b569-0d19baeabe4c.png)
