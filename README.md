@@ -24,7 +24,7 @@ Hi 👋, I'm Enobong Isong  ![pix11](https://user-images.githubusercontent.com/1
 
 ✨  Want to know more about me? [ https://enoisong.github.io/mobile-version-redo/] 😃
 
-❤️‍🔥 Research
+ 
 
 ❤️‍🔥 Languages
 
@@ -42,13 +42,7 @@ Tools. 🛠
 
 
 
-
- Let's Connect                                        ![pix11](https://user-images.githubusercontent.com/110339348/231507103-78121d31-ef39-4ba0-b569-0d19baeabe4c.png)
-
-
-  
-  
-  
+ 
 
   
  
@@ -70,8 +64,7 @@ Let's Connect 🤝
 
  
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Enoisong&theme=tokyonight)](https://git.io/streak-stats)
-  
+ 
  
  
 
