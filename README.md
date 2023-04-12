@@ -11,18 +11,21 @@
 
  
 
+🖤 I love collaborating on Coding
 
-I love collaborating on Coding 🖤
+🌐 I enjoy feedbacks, because it helps me become a better person and a better programmer.🧡
 
-I enjoy feedbacks, because it helps me become a better person and a better programmer.🧡
+📚 JavaScript, Bootstrap, Webpack, jest,  
 
-I am interested in web development and can pick up skills quickly, and also willing to dive deep into learning the requisite skills to learn and grow.
+💡  I am interested in web development and can pick up skills quickly, and also willing to dive deep into learning the requisite skills to learn and grow.
 
-Want to know more about me? [ https://enoisong.github.io/mobile-version-redo/] 😃
+⭐ currently studying  at @Microverseinc
 
+✨  Want to know more about me? [ https://enoisong.github.io/mobile-version-redo/] 😃
 
+❤️‍🔥 Research
 
-Languages. 👨‍💻
+  
 
 
  ![image](https://user-images.githubusercontent.com/110339348/231052561-69c74214-6593-44aa-9c76-4567f0177554.png) ![image](https://user-images.githubusercontent.com/110339348/231052888-3f3ac460-16d5-4e66-adb5-63cab35db001.png) ![image](https://user-images.githubusercontent.com/110339348/231053119-3869660b-ba4d-4e76-82ed-298605432cd0.png) ![image](https://user-images.githubusercontent.com/110339348/231052931-a1e276fc-e6b7-4d7d-8ce9-6c10729d1801.png)
@@ -43,6 +46,7 @@ Tools. 🛠
   
   
   
+
   
  
  
