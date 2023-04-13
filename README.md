@@ -28,8 +28,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Enobongmisong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Enobongmisong" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zoumtechmassa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@zoumtechmassa" height="30" width="40" /></a> 
-<a href="https://fb.com/massa zoumanigui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="massa zoumanigui" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/enobong-isong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enobong-isong" height="30" width="40" /></a> 
+<a href="https://fb.com/Enobong Itiaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Enobong Itiaba" height="30" width="40" /></a> 
 <a href="https://www.hackerrank.com/@zoumanigui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@zoumanigui" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
