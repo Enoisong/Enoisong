@@ -2,7 +2,7 @@
   <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ,I'm Enobong Isong</h1>
 <h3 align="center">❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research | </h3>
 
-<h4 align="center">  Looking for my next job! </h4>
+<h4 align="center">  I'm currently available for hire! </h4>
 <hr>
 
  
