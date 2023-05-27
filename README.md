@@ -1,7 +1,7 @@
    
   <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ,I'm Enobong Isong</h1>
 <h3 I'm+Full-Stack+Software+Developer+align="center">❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research | </h3>
- <a href="https://git.io/typing-svg" rel="nofollow"><img src="https://camo.githubusercontent.com/90a4bd6e8e75d6ebd5c28ab70e65b837f740e06e85c561213a9ce5eeb628b240/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d3430266475726174696f6e3d343030302670617573653d3130303026636f6c6f723d3730413546442677696474683d31353038266865696768743d3830266c696e65733d48656c6c6f2b54686572652532432b49276d2b4452495353412b544f5552453b49276d2b46756c6c2d537461636b2b536f6674776172652b446576656c6f7065722b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=40&amp;duration=4000&amp;pause=1000&amp;color=70A5FD&amp;width=1508&amp;height=80&amp;lines=Hello+There%2C+I'm+ENOBONG+ISONG;I'm+Full-Stack+Software+Developer+" style="max-width: 100%;"></a>
+ 
 <h4 align="center">  I'm currently available for hire! </h4>
 <hr>
 
