@@ -1,7 +1,7 @@
    
   <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ,I'm Enobong Isong</h1>
 <h3 align="center">❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research | </h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Enobong+Isong;A+Full-Stack+Developer;I'm+currently+available for+hire!)](https://git.io/typing-svg)
 <h4 align="center">  I'm currently available for hire! </h4>
 <hr>
 
