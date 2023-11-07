@@ -16,7 +16,7 @@
      
 - ⭐ Currently studying @ Microverseinc<br>
 
-- 👨‍💻 Want to know more about me? <br>[https://enoisong.github.io/mobile-version-redo/] 
+- 👨‍💻 Want to know more about me? <br>[https://enoisong.github.io/Enoisong_Portfolio/] 
  
  
 - 📫 Reach me @ **enobongitiaba988@gmail.com**
