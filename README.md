@@ -6,8 +6,8 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <a href="https://twitter.com/Enobongmisong" target="blank"><img src="https://img.shields.io/twitter/follow/Enobongmisong?logo=twitter&style=for-the-badge" alt="Enobongmisong" /></a> </p>
 
-- 🖤 I love collaborating in Coding <br>   
--  I am a Full-Stack Developer <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="55"> from Nigeria and I've spent 1500+ hours of coding through the Microverse Program<br>
+- 🖤 I love collaborating in Coding <br>
+- 💙I've spent 1500+ hours of coding <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="55">through the Microverse Program<br>.
 - 🌱I’m currently working on full-stack web projects alongside remote developers from all over the world 🌏<br><br>  
 - 👨‍💻 Want to know more about me? <br>[https://enoisong.github.io/Enoisong_Portfolio/]  
 - 📫 Reach me @ **enobongitiaba988@gmail.com**
