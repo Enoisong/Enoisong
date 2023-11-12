@@ -1,21 +1,15 @@
-   
-  <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ,I'm Enobong Isong</h1>
-<h3 I'm+Full-Stack+Software+Developer+align="center">❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research | </h3> 
+![MasterHead](https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Desktop%20Bouncing%20Balls.gif)
+
+ <h1 align="center"> Hey there! 👋🏻 I'm Enobong Isong.</h1>
+<h3 I'm+Full-Stack+Software+Developer+align="center">             ❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research | </h3> 
  <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2614A9&width=435&lines=Hello+There!+I'm+Enobong+Isong.;I'm+a+Full-Stack+Developer.;Available+for+hire!" alt="Typing SVG" /></a><hr>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/110339348/231507103-78121d31-ef39-4ba0-b569-0d19baeabe4c.png">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <a href="https://twitter.com/Enobongmisong" target="blank"><img src="https://img.shields.io/twitter/follow/Enobongmisong?logo=twitter&style=for-the-badge" alt="Enobongmisong" /></a> </p>
 
-- 🖤 I love collaborating in Coding <br>  
- 
-- 🧡 I enjoy feedbacks, because it helps me become a better person and a better programmer.<br>
-
-- 📚 JavaScript, Bootstrap, Webpack, jest<br>
-
-- 💡 I am interested in web development and 
-     can pick up skills quickly, and also willing to dive deep into learning the requisite skills to learn and grow<br> 
-     
-- ⭐ Currently studying @ Microverseinc<br>
-
+- 🖤 I love collaborating in Coding <br>   
+-  I am a Full-Stack Developer <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="55"> from Nigeria and I've spent 1500+ hours of coding through the Microverse Program<br>
+- 🌱I’m currently working on full-stack web projects alongside remote developers from all over the world 🌏<br><br>
+- 👨‍💻I'm one of [the top GitHub contributors in Nigeria](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/myanmar.md) 🏆<br><br> 
 - 👨‍💻 Want to know more about me? <br>[https://enoisong.github.io/Enoisong_Portfolio/] 
  
  
