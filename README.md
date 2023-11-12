@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Desktop%20Bouncing%20Balls.gif)
 
  <h1 align="center"> Hey there! 👋🏻 I'm Enobong Isong.</h1>
-<h3 I'm+Full-Stack+Software+Developer+align="center">             ❤️ Programming | 🖤 Communicating | 💙 Learning New Tech Things | 🧡 Research | </h3> 
+<h3 I'm+Full-Stack+Software+Developer+align="center">            ❤️Programming |🖤 Communicating |💙 Learning New Tech Things |🧡 Research |🖤Software Solution </h3> 
  <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2614A9&width=435&lines=Hello+There!+I'm+Enobong+Isong.;I'm+a+Full-Stack+Developer.;Available+for+hire!" alt="Typing SVG" /></a><hr>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <a href="https://twitter.com/Enobongmisong" target="blank"><img src="https://img.shields.io/twitter/follow/Enobongmisong?logo=twitter&style=for-the-badge" alt="Enobongmisong" /></a> </p>
