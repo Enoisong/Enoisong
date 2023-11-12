@@ -2,16 +2,14 @@
 
  <h1 align="center"> Hey there! 👋🏻 I'm Enobong Isong.</h1>
   <h3 align="center">❤️Programming |🖤 Communicating |💙 Learning New Tech Things |🧡 Research </h3> 
- <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2614A9&width=435&lines=Hello+There!+I'm+Enobong+Isong.;I'm+a+Full-Stack+Developer.;Available+for+hire!" alt="Typing SVG" /></a><hr>
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=50953AFD&random=false&width=435&lines=I'm+a+Full+Stack+Web+Developer;Welcome+to+my+profile!" alt="Typing SVG" /></a></p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <a href="https://twitter.com/Enobongmisong" target="blank"><img src="https://img.shields.io/twitter/follow/Enobongmisong?logo=twitter&style=for-the-badge" alt="Enobongmisong" /></a> </p>
 
 - 🖤 I love collaborating in Coding <br>   
 -  I am a Full-Stack Developer <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="55"> from Nigeria and I've spent 1500+ hours of coding through the Microverse Program<br>
 - 🌱I’m currently working on full-stack web projects alongside remote developers from all over the world 🌏<br><br>  
-- 👨‍💻 Want to know more about me? <br>[https://enoisong.github.io/Enoisong_Portfolio/] 
- 
- 
+- 👨‍💻 Want to know more about me? <br>[https://enoisong.github.io/Enoisong_Portfolio/]  
 - 📫 Reach me @ **enobongitiaba988@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
